@@ -1,1 +1,2 @@
 git init: allows you to create a new repository on your current directory.
+git commit: saves your file.
