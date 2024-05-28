@@ -1,3 +1,4 @@
 git init: allows you to create a new repository on your current directory.
 git commit: saves your file.
 git add: is the command when there is a change made on your repository, and the repository is wanting to be updated this command will add the file so it can be commited. 
+git push: gets a new file or changes made to the remote repository
